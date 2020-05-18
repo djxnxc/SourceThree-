@@ -16,7 +16,6 @@
 		B38A86FA246E4286004AFB4B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86F9246E4286004AFB4B /* main.m */; };
 		B38A8704246E4286004AFB4B /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A8703246E4286004AFB4B /* ____Tests.m */; };
 		B38A870F246E4286004AFB4B /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A870E246E4286004AFB4B /* ____UITests.m */; };
-		B38A8724246E45B1004AFB4B /* BranchTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A8723246E45B1004AFB4B /* BranchTwo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +54,6 @@
 		B38A870A246E4286004AFB4B /* 分支练习UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "分支练习UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B38A870E246E4286004AFB4B /* ____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____UITests.m"; sourceTree = "<group>"; };
 		B38A8710246E4286004AFB4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B38A8722246E45B1004AFB4B /* BranchTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BranchTwo.h; sourceTree = "<group>"; };
-		B38A8723246E45B1004AFB4B /* BranchTwo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BranchTwo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,8 +115,6 @@
 				B38A86F5246E4286004AFB4B /* LaunchScreen.storyboard */,
 				B38A86F8246E4286004AFB4B /* Info.plist */,
 				B38A86F9246E4286004AFB4B /* main.m */,
-				B38A8722246E45B1004AFB4B /* BranchTwo.h */,
-				B38A8723246E45B1004AFB4B /* BranchTwo.m */,
 			);
 			path = "分支练习";
 			sourceTree = "<group>";
@@ -274,7 +269,6 @@
 			files = (
 				B38A86EF246E4282004AFB4B /* ViewController.m in Sources */,
 				B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */,
-				B38A8724246E45B1004AFB4B /* BranchTwo.m in Sources */,
 				B38A86FA246E4286004AFB4B /* main.m in Sources */,
 				B38A86EC246E4282004AFB4B /* SceneDelegate.m in Sources */,
 			);
