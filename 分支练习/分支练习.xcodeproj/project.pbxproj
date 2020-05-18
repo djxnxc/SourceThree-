@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B34E3D882472259B00804713 /* BranchTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = B34E3D872472259B00804713 /* BranchTwo.m */; };
 		B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86E8246E4282004AFB4B /* AppDelegate.m */; };
 		B38A86EC246E4282004AFB4B /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86EB246E4282004AFB4B /* SceneDelegate.m */; };
 		B38A86EF246E4282004AFB4B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86EE246E4282004AFB4B /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B34E3D862472259B00804713 /* BranchTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BranchTwo.h; sourceTree = "<group>"; };
+		B34E3D872472259B00804713 /* BranchTwo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BranchTwo.m; sourceTree = "<group>"; };
 		B38A86E4246E4282004AFB4B /* 分支练习.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "分支练习.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B38A86E7246E4282004AFB4B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B38A86E8246E4282004AFB4B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				B38A86F9246E4286004AFB4B /* main.m */,
 				B38A871F246E4596004AFB4B /* BranchOne.h */,
 				B38A8720246E4596004AFB4B /* BranchOne.m */,
+				B34E3D862472259B00804713 /* BranchTwo.h */,
+				B34E3D872472259B00804713 /* BranchTwo.m */,
 			);
 			path = "分支练习";
 			sourceTree = "<group>";
@@ -274,6 +279,8 @@
 			files = (
 				B38A86EF246E4282004AFB4B /* ViewController.m in Sources */,
 				B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */,
+
+				B34E3D882472259B00804713 /* BranchTwo.m in Sources */,
 				B38A86FA246E4286004AFB4B /* main.m in Sources */,
 				B38A86EC246E4282004AFB4B /* SceneDelegate.m in Sources */,
 				B38A8721246E4596004AFB4B /* BranchOne.m in Sources */,
