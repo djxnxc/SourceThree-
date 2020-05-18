@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B34E3D882472259B00804713 /* BranchTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = B34E3D872472259B00804713 /* BranchTwo.m */; };
 		B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86E8246E4282004AFB4B /* AppDelegate.m */; };
 		B38A86EC246E4282004AFB4B /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86EB246E4282004AFB4B /* SceneDelegate.m */; };
 		B38A86EF246E4282004AFB4B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86EE246E4282004AFB4B /* ViewController.m */; };
@@ -18,6 +17,8 @@
 		B38A8704246E4286004AFB4B /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A8703246E4286004AFB4B /* ____Tests.m */; };
 		B38A870F246E4286004AFB4B /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A870E246E4286004AFB4B /* ____UITests.m */; };
 		B38A8721246E4596004AFB4B /* BranchOne.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A8720246E4596004AFB4B /* BranchOne.m */; };
+        B34E3D882472259B00804713 /* BranchTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = B34E3D872472259B00804713 /* BranchTwo.m */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -280,10 +281,11 @@
 				B38A86EF246E4282004AFB4B /* ViewController.m in Sources */,
 				B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */,
 
-				B34E3D882472259B00804713 /* BranchTwo.m in Sources */,
 				B38A86FA246E4286004AFB4B /* main.m in Sources */,
 				B38A86EC246E4282004AFB4B /* SceneDelegate.m in Sources */,
 				B38A8721246E4596004AFB4B /* BranchOne.m in Sources */,
+                B34E3D882472259B00804713 /* BranchTwo.m in Sources */,
+
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
