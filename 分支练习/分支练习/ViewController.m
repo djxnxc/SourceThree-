@@ -23,5 +23,7 @@
 -(void)eat{
     
 }
-
+-(void)run{
+    
+}
 @end
