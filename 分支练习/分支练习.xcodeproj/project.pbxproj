@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B34E3D8B24722FCF00804713 /* Eat.m in Sources */ = {isa = PBXBuildFile; fileRef = B34E3D8A24722FCF00804713 /* Eat.m */; };
+		B34E3D8E2472300700804713 /* Jump.m in Sources */ = {isa = PBXBuildFile; fileRef = B34E3D8D2472300700804713 /* Jump.m */; };
 		B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86E8246E4282004AFB4B /* AppDelegate.m */; };
 		B38A86EC246E4282004AFB4B /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86EB246E4282004AFB4B /* SceneDelegate.m */; };
 		B38A86EF246E4282004AFB4B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B38A86EE246E4282004AFB4B /* ViewController.m */; };
@@ -39,6 +40,8 @@
 /* Begin PBXFileReference section */
 		B34E3D8924722FCF00804713 /* Eat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Eat.h; sourceTree = "<group>"; };
 		B34E3D8A24722FCF00804713 /* Eat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Eat.m; sourceTree = "<group>"; };
+		B34E3D8C2472300700804713 /* Jump.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Jump.h; sourceTree = "<group>"; };
+		B34E3D8D2472300700804713 /* Jump.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Jump.m; sourceTree = "<group>"; };
 		B38A86E4246E4282004AFB4B /* 分支练习.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "分支练习.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B38A86E7246E4282004AFB4B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B38A86E8246E4282004AFB4B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				B38A86F9246E4286004AFB4B /* main.m */,
 				B34E3D8924722FCF00804713 /* Eat.h */,
 				B34E3D8A24722FCF00804713 /* Eat.m */,
+				B34E3D8C2472300700804713 /* Jump.h */,
+				B34E3D8D2472300700804713 /* Jump.m */,
 			);
 			path = "分支练习";
 			sourceTree = "<group>";
@@ -273,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B34E3D8B24722FCF00804713 /* Eat.m in Sources */,
+				B34E3D8E2472300700804713 /* Jump.m in Sources */,
 				B38A86EF246E4282004AFB4B /* ViewController.m in Sources */,
 				B38A86E9246E4282004AFB4B /* AppDelegate.m in Sources */,
 				B38A86FA246E4286004AFB4B /* main.m in Sources */,
